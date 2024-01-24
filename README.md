@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Coronel</h1>
 <h3 align="center">Computer programming technician, a passionate student from Argentina</h3>
 
-- 🔭 I’m currently studing on **Universidad de Lomas de Zamora**
+- 🔭 I’m looking for a job opportunity!
 
 - 📫 How to reach me **contactoivancoronel@gmail.com**
 
