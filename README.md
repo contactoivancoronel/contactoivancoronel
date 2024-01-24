@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Alexis Coronel</h1>
 <h3 align="center">Computer programming technician, a passionate student from Argentina</h3>
 
-<img align="right" alt="coding" width="400" src="https://assets-global.website-files.com/61897bbb80b04406f137091a/62430a051e734d35fa9f3e0b_WLSSmhPWPsTOUHVemfC4VPHDMFRtjCUIbBGwOgt0NR93B_jx08Rj_7MD0K4cqeRlT4eiFJD1S4_FK4QrQzXDcsw-WHR5epdjl3oWfkTekDpjNlWYFNJ-yaF6K9Rg2ApEZQrwLqcc.gif"/>
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"/>
 
 - 🔭 I’m looking for a job opportunity!
 
