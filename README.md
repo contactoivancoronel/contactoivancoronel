@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ivan Coronel</h1>
+<h1 align="center">Hi 👋, I'm Ivan Alexis Coronel</h1>
 <h3 align="center">Computer programming technician, a passionate student from Argentina</h3>
 
 - 🔭 I’m looking for a job opportunity!
