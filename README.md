@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Alexis Coronel</h1>
 <h3 align="center">Computer programming technician, a passionate student from Argentina</h3>
 
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRlbDAydHF3c3NwZHFucHoydnB3ZHkxbmlyZ2U0Z3lqeXEzbHNmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="400" src="https://assets-global.website-files.com/61897bbb80b04406f137091a/62430a051e734d35fa9f3e0b_WLSSmhPWPsTOUHVemfC4VPHDMFRtjCUIbBGwOgt0NR93B_jx08Rj_7MD0K4cqeRlT4eiFJD1S4_FK4QrQzXDcsw-WHR5epdjl3oWfkTekDpjNlWYFNJ-yaF6K9Rg2ApEZQrwLqcc.gif"/>
 
 - 🔭 I’m looking for a job opportunity!
 
