@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ivan Alexis Coronel</h1>
 <h3 align="center">Computer programming technician, a passionate student from Argentina</h3>
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRlbDAydHF3c3NwZHFucHoydnB3ZHkxbmlyZ2U0Z3lqeXEzbHNmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 - 🔭 I’m looking for a job opportunity!
 
 - 📫 How to reach me **contactoivancoronel@gmail.com**
