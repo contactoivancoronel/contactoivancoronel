@@ -7,6 +7,7 @@
 Welcome to my repository! Here you’ll find my featured projects!
 
 - 🔭 I’m looking for a job opportunity!
+  
 🔎 SOC Analyst 
 🔎 Cybersecurity Analyst 
 🔎 Blue Team Analyst 
