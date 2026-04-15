@@ -21,6 +21,18 @@ Welcome to my repository! Here you’ll find my featured projects!
 <a href="https://linkedin.com/in/contactoivancoronel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/contactoivancoronel/" height="30" width="40" /></a>
 </p>
 
+## 🛡️ Cybersecurity Focus
+
+<p>
+  <img src="https://img.shields.io/badge/SIEM-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Threat%20Detection-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Log%20Analysis-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Blue%20Team-000?style=for-the-badge"/>
+</p>
+
+---
+
 <h3 align="left">Tools</h3>
 
 <p>
