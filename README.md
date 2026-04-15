@@ -38,8 +38,8 @@ Welcome to my repository! Here you’ll find my featured projects in CS and Prog
   <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=0078D6"/> - 
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logo=Splunk"/>
-  <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=Wireshark"/>
   <img src="https://img.shields.io/badge/Wazuh-000?style=for-the-badge&logo=Wazuh"/>
+  <img src="https://img.shields.io/badge/Wireshark-000?style=for-the-badge&logo=Wireshark"/>
   <img src="https://img.shields.io/badge/VirusTotal-000?style=for-the-badge&logo=VirusTotal"/>
 </p>
 
