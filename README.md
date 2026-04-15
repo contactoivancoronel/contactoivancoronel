@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Coronel</h1>
 <h3 align="center">Cybersecurity Analyst | SOC Analyst | Blue Team & Computer programming technician</h3>
 
-<img align="right" alt="coding" width="350" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"/>
-
 ---
 
 ## 🛡️ About Me
@@ -15,17 +13,6 @@
 
 ---
 Welcome to my repository! Here you’ll find my featured projects!
-
-🔭 I’m looking for a job opportunity!
-  
-🔎 SOC Analyst 
-
-🔎 Cybersecurity Analyst 
-
-🔎 Blue Team Analyst 
-
-🔎 Incident Response Analyst 
-
 
 - 📫 How to reach me **contactoivancoronel@gmail.com**
 
