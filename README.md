@@ -20,7 +20,7 @@ Welcome to my repository! Here you’ll find my featured projects!
 
 - 📫 How to reach me **contactoivancoronel@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/contactoivancoronel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/contactoivancoronel/" height="30" width="40" /></a>
 </p>
@@ -46,7 +46,7 @@ Welcome to my repository! Here you’ll find my featured projects!
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3"/>
 </p>
 
-<h3 align="left">Databases:</h3>
+<h3 align="left">Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoftsqlserver"/>
