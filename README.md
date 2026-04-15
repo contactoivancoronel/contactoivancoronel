@@ -6,7 +6,7 @@
 
 Welcome to my repository! Here you’ll find my featured projects!
 
-## 🛡️ About Me
+🛡️ About Me
 
 🔐 Passionate about cybersecurity and threat detection  
 🎯 Focused on SOC operations, incident response & blue team practices  
@@ -19,7 +19,7 @@ Welcome to my repository! Here you’ll find my featured projects!
 <a href="https://linkedin.com/in/contactoivancoronel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/contactoivancoronel/" height="30" width="40" /></a>
 </p>
 
-## 🛡️ Cybersecurity Focus
+🛡️ Cybersecurity Focus
 
 <p>
   <img src="https://img.shields.io/badge/SIEM-000?style=for-the-badge"/>
