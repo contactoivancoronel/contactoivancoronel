@@ -12,7 +12,7 @@ Welcome to my repository! Here you’ll find my featured projects!
 🎯 Focused on SOC operations, incident response & blue team practices  
 📚 Constantly learning and improving my technical skills  
 🚀 Actively seeking opportunities as a **SOC Analyst / Cybersecurity Analyst**
-📫 How to reach me **contactoivancoronel@gmail.com**
+
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
