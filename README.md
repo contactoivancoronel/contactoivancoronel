@@ -33,7 +33,7 @@ Welcome to my repository! Here you’ll find my featured projects!
 
 <p>
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=0078D6"/> |
+  <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=0078D6"/> - 
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logo=Splunk"/>
   <img src="https://img.shields.io/badge/Wazuh-000?style=for-the-badge&logo=Wazuh"/>
