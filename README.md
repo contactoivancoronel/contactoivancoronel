@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ivan Coronel</h1>
-<h3 align="center">>Cybersecurity Analyst | SOC Analyst | Blue Team & Computer programming technician</h3>
+<h3 align="center">Cybersecurity Analyst | SOC Analyst | Blue Team & Computer programming technician</h3>
 
 <h1></h1>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"/>
