@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Ivan Coronel</h1>
-<h3 align="center">Cybersecurity Analyst | SOC Analyst | Blue Team & Computer programming technician</h3>
+<h3 align="center">Cybersecurity Analyst | SOC Analyst | Blue Team</h3>
 
 ---
 
-Welcome to my repository! Here you’ll find my featured projects!
+Welcome to my repository! Here you’ll find my featured projects in CS and Programming!
 
 ##  About Me
 
