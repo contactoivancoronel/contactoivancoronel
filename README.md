@@ -9,7 +9,6 @@ Welcome to my repository! Here you’ll find my featured projects!
 ## 🛡️ About Me
 
 🔐 Passionate about cybersecurity and threat detection  
-🎯 Focused on SOC operations, incident response & blue team practices  
 📚 Constantly learning and improving my technical skills  
 🚀 Actively seeking opportunities as a **SOC Analyst / Cybersecurity Analyst**
 
