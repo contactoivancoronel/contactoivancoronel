@@ -6,7 +6,7 @@
 
 Welcome to my repository! Here you’ll find my featured projects!
 
-## 🛡️ About Me
+##  About Me
 
 🔐 Passionate about cybersecurity and threat detection  
 📚 Constantly learning and improving my technical skills  
@@ -18,7 +18,7 @@ Welcome to my repository! Here you’ll find my featured projects!
 <a href="https://linkedin.com/in/contactoivancoronel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/contactoivancoronel/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Cybersecurity Focus</h3>
+<h3 align="left">🛡️ Cybersecurity Focus</h3>
 
 <p>
   <img src="https://img.shields.io/badge/SIEM-000?style=for-the-badge"/>
@@ -29,7 +29,7 @@ Welcome to my repository! Here you’ll find my featured projects!
 </p>
 
 
-<h3 align="left">OS & Tools</h3>
+<h3 align="left">🛠️ OS & Tools</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
@@ -41,7 +41,7 @@ Welcome to my repository! Here you’ll find my featured projects!
   <img src="https://img.shields.io/badge/VirusTotal-000?style=for-the-badge&logo=VirusTotal"/>
 </p>
 
-<h3 align="left">Programming & Design</h3>
+<h3 align="left">💻 Programming & Design</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
@@ -55,7 +55,7 @@ Welcome to my repository! Here you’ll find my featured projects!
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3"/>
 </p>
 
-<h3 align="left">Databases</h3>
+<h3 align="left">⚙️ Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>
   <img src="https://img.shields.io/badge/SQL%20Server-000?style=for-the-badge&logo=microsoftsqlserver"/>
