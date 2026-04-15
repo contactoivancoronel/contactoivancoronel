@@ -6,9 +6,7 @@
 
 Welcome to my repository! Here you’ll find my featured projects in CS and Programming!
 
----
-
-About Me
+## About Me
 
 - Passionate about cybersecurity and threat detection  
 - Constantly learning and improving my technical skills  
