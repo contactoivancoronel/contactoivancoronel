@@ -29,17 +29,18 @@ Welcome to my repository! Here you’ll find my featured projects!
 </p>
 
 
-<h3 align="left">Tools</h3>
+<h3 align="left">OS & Tools</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=0078D6"/>
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git"/>
 </p>
 
 <h3 align="left">Programming & Design</h3>
 
 <p>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk"/>
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php"/>
