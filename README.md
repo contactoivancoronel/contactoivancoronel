@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ivan Coronel</h1>
-<h3 align="center">Cybersecurity Analyst | SOC Analyst | Blue Team</h3>
+<h3 align="center">Cybersecurity Analyst | SOC Analyst | Computer Programming</h3>
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to my repository! Here you’ll find my featured projects in CS and Prog
 
 - Passionate about cybersecurity and threat detection  
 - Constantly learning and improving my technical skills  
-- Actively seeking opportunities as a **SOC Analyst / Cybersecurity Analyst**
+- Actively seeking opportunities as a **SOC Analyst / Cybersecurity Analyst or Computer Programming**
 
 📧 contactoivancoronel@gmail.com
 
